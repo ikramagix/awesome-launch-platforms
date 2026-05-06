@@ -12,6 +12,11 @@
 * [Betapage](https://betapage.co) – Discover and launch new startups daily.
 * [StartupBase](https://startupbase.io) – Share your startup and connect with makers.
 * [Launching Next](https://www.launchingnext.com) – List your project for free exposure.
+* [Aura++](https://auraplusplus.com) – A platform for showcasing and discovering innovative digital products and indie projects.
+* [IndieHunt](https://indiehunt.io) – Discover and promote indie-made products, tools, and side projects.
+* [EarlyHunt](https://earlyhunt.com) – A launch platform focused on early-stage startups and getting initial traction.
+* [MakerHunt](https://makerhunt.io) – A curated space for makers to launch and explore new products.
+* [SideHunt](https://sidehunt.io) – A discovery platform for side projects and indie hacker creations.
 
 ---
 
